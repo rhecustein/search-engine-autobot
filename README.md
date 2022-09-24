@@ -83,12 +83,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://autobot.co.id)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+membangun mesin pencari Anda sendiri Google Anda sendiri yang mungkin terdengar seperti Overkill, tapi itu tidak terlalu gila sebenarnya itu sebenarnya Anda akan dapat melakukannya di sini di sekitar 10 menit.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Inilah alasannya untuk di coba:
+* Membuat search engine pribadi, dengan tampilan sesuka hati
+* tidak perlu, setup backend, karena menggunakan server autobot sebagai backendnya untuk clone backend ada di link di bawah ini.
+* [![Repository Backend][Repository Backend]]
+* untuk melihat dokumentasi aslinya ada di https://searx.github.io/searx/
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -224,6 +225,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [Repository Backend](https://github.com/selene466/searx-autobot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
