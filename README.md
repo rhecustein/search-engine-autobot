@@ -97,9 +97,6 @@ Jika anda ingin setup server sendiri caranya cukup mudah.
 dan itu luar biasa seperti Anda bisa mengatakan Anda memiliki mesin pencari Anda sendiri mesin dan Anda akan memiliki kontrol penuh di atasnya privasi lengkap sekarang membangun mesin pencari saya di vultr, mudah & murah biayanya perbulan di bawah 100 rb untuk biaya server.
 
 
-
-Use the `BLANK_README.md` Untuk Memulai
-
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
@@ -169,15 +166,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add Kembali ke atas links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+Belum ada.
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
@@ -186,16 +175,13 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Jika Anda memiliki saran yang akan membuat ini lebih baik, silakan fork repo dan buat permintaan tarik. Anda juga dapat membuka masalah dengan tag "peningkatan". Jangan lupa untuk memberi proyek ini bintang! Terima kasih lagi!
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork Project
+2. Buat Branch Fitur Anda (`git checkout -b feature/AmazingFeature`)
+3. Commit perubahan yang anda buat (`git commit -m 'Add some AmazingFeature'`)
+4. Push ke Branch (`git push origin feature/AmazingFeature`)
+5. buka Pull Request
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
@@ -213,9 +199,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Bintang Wijaya - [@bintangwijaye](https://www.instagram.com/bintangwijaye/) - bintang@autobot.co.id
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
