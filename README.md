@@ -122,30 +122,33 @@ untuk clone repository
 Perintah git clone ini digunakan untuk membuat salinan repositori atau cabang tertentu di dalam repositori.
 Git adalah sistem kontrol versi terdistribusi. Maksimalkan keuntungan dari repositori lengkap di mesin Anda sendiri dengan mengkloning.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* clone
-  ```sh
-  git clone https://github.com/rhecustein/search-engine-autobot.git
-  ```
 
 ### Instalasi
 
 _untuk menjalankan server, perlu installasi ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=), atau ![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=) yang sudah terinstall di device anda, lalu ikuti instruksi berikut._ 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   atau bisa menggunakan yarn.
+3. Install Yarn packages
+    ```sh
+   yarn install
+   ```
+4. Run Server npm
+   ```sh
+   npm run dev
+   ```
+   atau bisa menggunakan yarn.
+
+5. Run Server npm
+   ```sh
+   yarn run dev
    ```
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
