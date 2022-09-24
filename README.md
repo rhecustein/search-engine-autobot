@@ -126,7 +126,7 @@ _untuk menjalankan server, perlu installasi ![npm](https://img.shields.io/static
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rhecustein/search-engine-autobot.git
    ```
 2. Install NPM packages
    ```sh
@@ -218,12 +218,8 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-
-<!-- MARKDOWN LINKS & REPO -->
-* [donate]()
+* [donate](https://trakteer.id/autobotws)
 * [repository-backend](https://github.com/selene466/searx-autobot)
-* 
 
 <p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
