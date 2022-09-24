@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/rhecustein/search-engine-autobot -->
+<!-- Improved compatibility of Kembali ke atas link: See: https://github.com/rhecustein/search-engine-autobot -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -100,39 +100,39 @@ dan itu luar biasa seperti Anda bisa mengatakan Anda memiliki mesin pencari Anda
 
 Use the `BLANK_README.md` Untuk Memulai
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
-### Built With
+### Dibuat Dengan
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+untuk framework kami menggunakan Vue Vite + Tailwind Css
 
 * [![Vue][Vue.js]][Vue-url]
-* ![Tails](https://img.shields.io/static/v1?style=for-the-badge&message=Tails&color=56347C&logo=Tails&logoColor=FFFFFF&label=)
 * ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Mulai
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+untuk clone repository 
+Perintah git clone ini digunakan untuk membuat salinan repositori atau cabang tertentu di dalam repositori.
+Git adalah sistem kontrol versi terdistribusi. Maksimalkan keuntungan dari repositori lengkap di mesin Anda sendiri dengan mengkloning.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* clone
   ```sh
-  npm install npm@latest -g
+  git clone https://github.com/rhecustein/search-engine-autobot.git
   ```
 
-### Installation
+### Instalasi
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_untuk menjalankan server, perlu installasi ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=), atau ![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=) yang sudah terinstall di device anda, lalu ikuti instruksi berikut._ 
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -148,7 +148,7 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
@@ -159,7 +159,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
@@ -167,7 +167,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
+- [x] Add Kembali ke atas links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
@@ -176,7 +176,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
@@ -194,7 +194,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
@@ -203,7 +203,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
@@ -214,7 +214,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
@@ -238,7 +238,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [repository-backend](https://github.com/selene466/searx-autobot)
 * 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Kembali ke atas</a>)</p>
 
 
 
