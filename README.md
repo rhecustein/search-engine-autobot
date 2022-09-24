@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/rhecustein/search-engine-autobot -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -88,10 +88,13 @@ membangun mesin pencari Anda sendiri Google Anda sendiri yang mungkin terdengar 
 Inilah alasannya untuk di coba:
 * Membuat search engine pribadi, dengan tampilan sesuka hati
 * tidak perlu, setup backend, karena menggunakan server autobot sebagai backendnya untuk clone backend ada di link di bawah ini.
-* [![Repository Backend][Repository Backend]]
+* [![Repository Backend][repository-backend]]
 * untuk melihat dokumentasi aslinya ada di https://searx.github.io/searx/
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Jika anda ingin setup server sendiri caranya cukup mudah.
+dan itu luar biasa seperti Anda bisa mengatakan Anda memiliki mesin pencari Anda sendiri mesin dan Anda akan memiliki kontrol penuh di atasnya privasi lengkap sekarang membangun mesin pencari saya di vultr, mudah & murah biayanya perbulan di bawah 100 rb untuk biaya server.
+
+
 
 Use the `BLANK_README.md` to get started.
 
@@ -104,7 +107,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Vue][Vue.js]][Vue-url]
-* [![Tailwinds][Angular.io]][Angular-url]
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +228,9 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-* [Repository Backend](https://github.com/selene466/searx-autobot)
+
+
+* [repository-backend](https://github.com/selene466/searx-autobot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -234,15 +239,15 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/rhecustein/search-engine-autobot/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/rhecustein/search-engine-autobot/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/rhecustein/search-engine-autobot/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/rhecustein/search-engine-autobot/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/rhecustein/search-engine-autobot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/gambar.png
