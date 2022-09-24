@@ -88,8 +88,10 @@ membangun mesin pencari Anda sendiri Google Anda sendiri yang mungkin terdengar 
 Inilah alasannya untuk di coba:
 * Membuat search engine pribadi, dengan tampilan sesuka hati
 * tidak perlu, setup backend, karena menggunakan server autobot sebagai backendnya untuk clone backend ada di link di bawah ini.
-* [![autobot-img][repository-backend]]
+* 
 * untuk melihat dokumentasi aslinya ada di https://searx.github.io/searx/
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/autobotws','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+
 
 Jika anda ingin setup server sendiri caranya cukup mudah.
 dan itu luar biasa seperti Anda bisa mengatakan Anda memiliki mesin pencari Anda sendiri mesin dan Anda akan memiliki kontrol penuh di atasnya privasi lengkap sekarang membangun mesin pencari saya di vultr, mudah & murah biayanya perbulan di bawah 100 rb untuk biaya server.
@@ -258,4 +260,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Vue-url]: https://vuejs.org/
 [autobot-img]: images/gambar.png
 [repository-backend]: https://github.com/selene466/searx-autobot
+[trakteer]
 
