@@ -88,9 +88,9 @@ membangun mesin pencari Anda sendiri Google Anda sendiri yang mungkin terdengar 
 Inilah alasannya untuk di coba:
 * Membuat search engine pribadi, dengan tampilan sesuka hati
 * tidak perlu, setup backend, karena menggunakan server autobot sebagai backendnya untuk clone backend ada di link di bawah ini.
-* 
+* https://github.com/selene466/searx-autobot untuk join repo silakan chat whatsapp : wa.me/6282113449066  
 * untuk melihat dokumentasi aslinya ada di https://searx.github.io/searx/
-<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/autobotws','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+* jika kamu merasakan manfaat dari project ini silakan mampir : https://trakteer.id/autobotws 
 
 
 Jika anda ingin setup server sendiri caranya cukup mudah.
@@ -98,7 +98,7 @@ dan itu luar biasa seperti Anda bisa mengatakan Anda memiliki mesin pencari Anda
 
 
 
-Use the `BLANK_README.md` to get started.
+Use the `BLANK_README.md` Untuk Memulai
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +109,8 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Vue][Vue.js]][Vue-url]
-* 
+* ![Tails](https://img.shields.io/static/v1?style=for-the-badge&message=Tails&color=56347C&logo=Tails&logoColor=FFFFFF&label=)
+* ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
