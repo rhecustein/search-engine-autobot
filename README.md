@@ -38,7 +38,6 @@
   <h6 align="center">Powered by <a href="https://searx.github.io/searx/">Searx</a></h6>
 
   <p align="center">
-    
     <br />
     <a href="https://web.facebook.com/groups/824634255212514"><strong>Join Community Facebook »</strong></a>
     <br />
