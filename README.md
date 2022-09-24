@@ -88,7 +88,7 @@ membangun mesin pencari Anda sendiri Google Anda sendiri yang mungkin terdengar 
 Inilah alasannya untuk di coba:
 * Membuat search engine pribadi, dengan tampilan sesuka hati
 * tidak perlu, setup backend, karena menggunakan server autobot sebagai backendnya untuk clone backend ada di link di bawah ini.
-* [![Repository Backend][repository-backend]]
+* [![autobot-img][repository-backend]]
 * untuk melihat dokumentasi aslinya ada di https://searx.github.io/searx/
 
 Jika anda ingin setup server sendiri caranya cukup mudah.
@@ -256,4 +256,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/gambar.png
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
+[autobot-img]: images/gambar.png
+[repository-backend]: https://github.com/selene466/searx-autobot
 
